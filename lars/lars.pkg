@@ -1,0 +1,4 @@
+D 'lars': Least Angle Regression, Forward Stagewise Regression, Lasso estimation Use lars With STATA 19
+D
+F lars.ado
+F lars.sthlp

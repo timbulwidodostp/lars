@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p lars Least Angle Regression, Forward Stagewise Regression, Lasso estimation Use lars With STATA 19
